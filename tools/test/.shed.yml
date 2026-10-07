@@ -1,0 +1,7 @@
+categories:
+- Fastq Manipulation
+description: Convert FASTQ to FASTA with seqtk
+long_description: Practice wrapper for seqtk seq from the Galaxy tool development
+  workshop
+name: seqtk_seq
+owner: iuc
